@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=".github/podcastr-logo.svg" alt="Podcastr logo">
+  <img src="https://raw.githubusercontent.com/pedropbazzo/podcastr/13d60bd7d3f666cab43e23bbbf3e493522200119/img/podcastr-logo.svg" alt="Podcastr logo">
 </div>
 
 ## Podcastr
@@ -12,13 +12,13 @@
   Podcastr is a platform built for podcast broadcasting.
 </h4>
 
-![Podcastr preview](.github/app-preview.png)
+![Podcastr preview](https://raw.githubusercontent.com/pedropbazzo/podcastr/master/img/app-preview.png)
 
 ## Tecnologies
 
 <div align="center">
   <br />
-  <img src=".github/tech-logos.png" alt="Technologies used">
+  <img src="https://raw.githubusercontent.com/josepholiveira/podcastr/main/.github/tech-logos.png">
 </div>
 
 This project was developed using cutting edge front-end technologies.
