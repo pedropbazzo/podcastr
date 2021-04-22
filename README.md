@@ -4,6 +4,10 @@
 
 ## Podcastr
 
+[![Author](https://img.shields.io/badge/author-pedropbazzo-8257E5?style=flat-square)](https://github.com/pedropbazzo)
+[![Languages](https://img.shields.io/github/languages/count/pedropbazzo/podcastr?color=%238257E5&style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pedropbazzo/podcastr?color=8257E5&style=flat-square)](https://github.com/pedropbazzo/podcastr/stargazers)
+
 <h4 align="center">
   Podcastr is a platform built for podcast broadcasting.
 </h4>
